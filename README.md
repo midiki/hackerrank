@@ -1,2 +1,2 @@
 # hackerrank
-solution of hacker rank.com
+solution of hackerrank.com
